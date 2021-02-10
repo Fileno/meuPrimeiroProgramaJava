@@ -11,12 +11,9 @@ import java.util.Scanner;
 
 public class Principal {
 
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
 		
-		System.out.println("Ol·! Tudo bem?");
+		System.out.println("Ol√°! Tudo bem?");
 		
 		Scanner in = new Scanner (System.in);
 		
