@@ -15,9 +15,8 @@ public class Principal {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
-		System.out.println("Test  \ntest2");
+		System.out.println("Olá! Tudo bem?");
 		
 		Scanner in = new Scanner (System.in);
 		
